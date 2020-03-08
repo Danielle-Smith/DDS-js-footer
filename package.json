@@ -1,0 +1,25 @@
+{
+  "name": "dds-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with updated yeat and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielle-Smith/DDS-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Danielle <danielle@natesdesign.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielle-Smith/DDS-js-footer/issues"
+  },
+  "homepage": "https://github.com/Danielle-Smith/DDS-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
